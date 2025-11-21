@@ -5,7 +5,7 @@
 ## Platforms and Languages Leveraged
 - **Platforms:** Microsoft Defender for Endpoint, Windows Server, Azure Network Security Groups (NSG)  
 - **Languages/Scripts:** KQL
-
+- https://www.abuseipdb.com/
 
 ## Scenario
 This project simulates a Security Operations Center (SOC) investigation focused on a Windows server exposed to the internet with Remote Desktop Protocol (RDP) open on port 3389. The investigation monitored failed and successful login attempts, analyzed remote IP activity, and implemented security measures to prevent unauthorized access.
